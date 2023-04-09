@@ -1,11 +1,11 @@
-# Movie with login
+# Movie Discovery with login
 
 
 Welcome, welcome, welcome! So you've stumbled upon our little corner of the internet, eh? Well, congratulations and thank you.
 This is part of a small project to build a FRONTEND web porfolio.
 
 
-[DEMO HERE](https://movie-with-login.vercel.app/login)
+[DEMO HERE](https://movie-with-login.vercel.app)
 
  # Getting started
 
