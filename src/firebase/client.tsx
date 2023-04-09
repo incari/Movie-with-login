@@ -8,12 +8,12 @@ import {
 } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.API_KEY,
-  authDomain: import.meta.env.AUTH_DOMAIN,
-  projectId: import.meta.env.PROJECT_ID,
-  storageBucket: import.meta.env.STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.MESSAGING_SENDER_ID,
-  appId: import.meta.env.APP_ID
+  apiKey: "AIzaSyCICfQq7CoISuh8BXkdzJUgpTml6hN6y2c",
+  authDomain: "movie-db-login-e7fa5.firebaseapp.com",
+  projectId: "movie-db-login-e7fa5",
+  storageBucket: "movie-db-login-e7fa5.appspot.com",
+  messagingSenderId: "140287621520",
+  appId: "1:140287621520:web:8c7b7fe1f27db881df5b15"
 };
 
 // Initialize Firebase
