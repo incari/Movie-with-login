@@ -1,12 +1,32 @@
 # Movie with login
 
+
 Welcome, welcome, welcome! So you've stumbled upon our little corner of the internet, eh? Well, congratulations and thank you.
-This is part of a small project to build a FRONTEND web porfolio. 
+This is part of a small project to build a FRONTEND web porfolio.
 
 
-The main feature at the moment is the auth system using Firebase as platform to get a backend service working with all the features incorporated.
+[DEMO HERE](https://movie-with-login.vercel.app/login)
+
+ # Getting started
+
+You can clone or download this repo and using
+
+`yarn install`
+
+`yarn dev` 
+ 
+ 
+ or
+ 
+ `npm install`
+ 
+ `npm run start`
+ 
+
 
 ## Features
+
+The main feature at the moment is the auth system using Firebase as platform to get a backend service working with all the features incorporated.
 
 Using the Firebase Auth services, as user you can:
 
